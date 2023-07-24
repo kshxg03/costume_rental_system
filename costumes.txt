@@ -1,0 +1,6 @@
+Spy Costume,Frabunatic Inc.,35,60
+Cop Costume,Frabunatic Inc.,35,60
+Bunny Costume,Norcostco Inc.,40,50
+Ghost Costume,Cowan Costumes,35,30
+Fairy Costume,GK Enterprises,50,30
+Flash Costume,DC Enterprises,25,40
